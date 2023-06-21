@@ -1,2 +1,2 @@
 # Arduino
-Plan to develop a Tetris block using R3.
+Plan to develop a Tetris via R3.
